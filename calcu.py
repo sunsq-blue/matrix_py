@@ -32,7 +32,7 @@ for i in range(0,A.shape[0]):
         #  k=k+1
 
 
-#矩阵进行划分
+#矩阵进行
 
 k2=0
 for i in range (0,18):
